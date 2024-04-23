@@ -15,7 +15,7 @@
   - [ ] dataclasses (3.7) really easy way to create typed classes of properties (e.g. for JSON data)
   - [ ] `:=` walrus operator (3.8) asignments in expressions (e.g. `if (match := re.search(pattern, line)) is not None:`), probably most useful [in list comprehensions](https://realpython.com/python-walrus-operator/#list-comprehensions)
   - [ ] `match...case` ([3.10](https://peps.python.org/pep-0622/)) especially stuff like [real-world match case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html) where it's used to introspect variable data structures (like JSON API responses that vary in structure)
-- [ ] async code
+- [ ] async code https://realpython.com/async-io-python/
 - [ ] code editor configuration (linting, pylance)
 - [ ] dependency management (virtualenv, pyenv, poetry, pipenv)
   - [ ] differences between poetry and pipenv (poetry better for writing libraries, pipenv better for applications?)
@@ -23,7 +23,7 @@
 My favorites of these:
 
 - [ ] spaCy (but hardest to have others play with due to model download)
-- [ ] pytest parametrization
-- [ ] f-strings
+- [x] pytest parametrization
+- [x] f-strings
 - [ ] type hints
 - [ ] dependency management
