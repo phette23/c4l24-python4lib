@@ -3,10 +3,10 @@
 - [ ] pymarc patterns  (e.g. iterating over fields in a record instead of using the builtin `record.isbn` properties)
 - [ ] pandas
 - [ ] spaCy / NLP, see [their free course](https://course.spacy.io/en/)
-- [ ] pytest (parametrization)
+- [x] pytest (parametrization)
 - [ ] csvkit CLI
 - [ ] notebooks
-- [ ] type hints (3.5 but more & more features continue to be added like union types `dict|list` in 3.10)
+- [x] type hints (3.5 but more & more features continue to be added like union types `dict|list` in 3.10)
 - [ ] pydantic
 - [ ] common patterns (list comprehensions instead of loops, creating a hashable dict?)
 - [ ] powerful but underutilized components in the standard library (deduping with `set`, access index in loop with `enumerate`)
@@ -25,5 +25,5 @@ My favorites of these:
 - [ ] spaCy (but hardest to have others play with due to model download)
 - [x] pytest parametrization
 - [x] f-strings
-- [ ] type hints
+- [x] type hints
 - [ ] dependency management
