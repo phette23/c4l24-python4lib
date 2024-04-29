@@ -17,8 +17,8 @@
   - [ ] `match...case` ([3.10](https://peps.python.org/pep-0622/)) especially stuff like [real-world match case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html) where it's used to introspect variable data structures (like JSON API responses that vary in structure)
 - [ ] async code https://realpython.com/async-io-python/
 - [ ] code editor configuration (linting, pylance)
-- [ ] dependency management (virtualenv, pyenv, poetry, pipenv)
-  - [ ] differences between poetry and pipenv (poetry better for writing libraries, pipenv better for applications?)
+- [x] dependency management (virtualenv, pyenv, poetry, pipenv)
+  - [x] differences between poetry and pipenv (poetry better for writing libraries, pipenv better for applications?)
 
 My favorites of these:
 
@@ -26,4 +26,4 @@ My favorites of these:
 - [x] pytest parametrization
 - [x] f-strings
 - [x] type hints
-- [ ] dependency management
+- [x] dependency management
