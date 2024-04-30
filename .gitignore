@@ -2,3 +2,5 @@
 .pytest_cache
 # normally would check this in but for a demonstration repo doesn't seem necessary
 poetry.lock
+# example modified file from pymarc notebook
+docs/assets/great.mrc
