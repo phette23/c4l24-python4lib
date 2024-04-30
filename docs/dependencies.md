@@ -202,6 +202,8 @@ Poetry uses the pyproject.toml file format which is used by other Python tools i
 
 `poetry env` commands give you nice insight into your project's virtual environment(s) in a manner I find more convenient than Pipenv's.
 
+Poetry has a `build` command for building distributions if you are publishing a your code on PyPI.
+
 I think the Poetry CLI is prettier (makes better use of colorization) than Pipenv's. I haven't done a systematic study but it seems to be faster, too.
 
 ### Poetry Disadvantages
