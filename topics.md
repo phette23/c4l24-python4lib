@@ -1,6 +1,6 @@
 # Topics
 
-- [ ] **pymarc patterns**  (e.g. iterating over fields in a record instead of using the builtin `record.isbn` properties)
+- [x] pymarc patterns  (e.g. iterating over fields in a record instead of using the builtin `record.isbn` properties)
 - [ ] pandas
 - [ ] spaCy / NLP, see [their free course](https://course.spacy.io/en/)
 - [x] pytest (parametrization)
