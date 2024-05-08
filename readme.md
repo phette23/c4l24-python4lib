@@ -8,6 +8,19 @@ Python{4}Lib is an informal discussion group which meets biweekly over Zoom. The
 
 In general, the session is intended for people with some experience programming in python. Novice to intermediate programmers should expect to learn new techniques but also see some familiar code. Beginners may feel a bit lost during conversations, but there will be beginner exercises and instructor assistance available.
 
+## Workshop Prologue
+
+We will abide by the [Code4Lib Code of Conduct](https://2024.code4lib.org/conduct/) during this workshop. Please be respectful of others and their opinions. If you need to [contact a Community Support Volunteer](https://2024.code4lib.org/conduct/#volunteers), you can do so in a number of ways:
+
+- Email c4lcommunitysupport@googlegroups.com
+- Use the [anonymous incident report form](https://css4csv.clir.org/anonymous-incident-report-form/)
+- Message the `@css` group in the Code4Lib Slack. The group is also notified by messages containing the text `c4lcss` or `c4lcsv`.
+- Message `@community_support_volunteers` on the Code4Lib Discord
+
+**Other bits of housekeeping here** — where are the bathrooms? Water fountains? We will have a break about an hour in.
+
+Then a round of introductions. Please share at least your name and a note about your relationship with Python, whether that's your expertise level, what kinds of coding you usually do, or something you're looking forward to talking about today.
+
 ## Getting Started
 
 To get the most out of this session, attendees will need to download this repository and have Python 3. Python 3.10 should be able to utilize all features discussed but earlier versions should be able to run most of the code samples.
