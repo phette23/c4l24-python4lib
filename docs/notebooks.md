@@ -22,7 +22,7 @@ There may be other ways to run notebooks, I did not have time to research them a
 
 ### Google Colab
 
-[Google Colab](https://colab.research.google.com/) is the easiest way to run notebooks because we don't need any extra software or setup steps, but we have to access them through the Colab website.
+[Google Colab](https://colab.research.google.com/) is the easiest way to run notebooks because we don't need any extra software or setup steps, but we have to access them through the Colab website. Colab notebooks come with many packages pre-installed, including pandas and spaCy, which is quite convenient.
 
 We can open the notebooks in this repo directly from GitHub in the **Open Notebook** menu, select GitHub, then paste this repo's URL https://github.com/phette23/c4l24-python4lib/ or `phette23/c4l24-python4lib` into the search menu. Each notebook has a button to open it in a new tab. There will be a warning about running code from a non-Google source the first time we execute code.
 
