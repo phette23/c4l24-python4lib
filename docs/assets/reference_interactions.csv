@@ -1,0 +1,302 @@
+datetime,email,type,mode,patron category,topics,location,duration
+9/1/2023 10:54:50,calypso@cca.edu,Directional,Chat,Faculty,,Aeaea,11
+9/1/2023 11:09:25,circe@cca.edu,Reference,Email,Faculty,,Aeaea,94
+9/1/2023 13:18:22,calypso@cca.edu,Directional,Chat,Undergrad,,Aeaea,35
+9/5/2023 8:53:28,circe@cca.edu,Service,Email,Other,,Aeaea,60
+9/5/2023 11:27:44,circe@cca.edu,Service,Email,Staff,,Aeaea,75
+9/5/2023 16:18:11,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,70
+9/6/2023 10:40:19,circe@cca.edu,Reference,Email,Faculty,,Aeaea,93
+9/6/2023 10:40:31,circe@cca.edu,Service,Email,Staff,,Aeaea,34
+9/6/2023 10:40:44,circe@cca.edu,Service,Email,Staff,,Aeaea,33
+9/6/2023 12:06:58,circe@cca.edu,Reference,Email,Other,,Aeaea,70
+9/6/2023 14:57:39,calypso@cca.edu,Technical/Computing,Chat,Grad Student,Moodle,Aeaea,50
+9/6/2023 17:00:29,cyclops@cca.edu,Reference,In Person,,,Ithaca,94
+9/7/2023 12:06:38,calypso@cca.edu,Service,Chat,Faculty,Moodle,Aeaea,79
+9/7/2023 12:06:52,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,96
+9/7/2023 15:26:23,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,90
+9/6/2023 15:00:00,telemachus@cca.edu,Technical/Computing,In Person,Faculty,"Moodle, Panopto",Ithaca,42
+9/7/2023 17:42:09,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,24
+9/8/2023 11:37:35,calypso@cca.edu,Service,Email,,VAULT,Aeaea,38
+9/8/2023 11:45:19,circe@cca.edu,Reference,Email,Other,,Aeaea,65
+9/8/2023 12:29:08,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,39
+9/8/2023 13:18:53,calypso@cca.edu,Technical/Computing,Chat,Undergrad,Moodle,Aeaea,68
+9/8/2023 13:33:16,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,23
+9/9/2023 8:26:42,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,32
+9/11/2023 10:21:02,circe@cca.edu,Service,Email,Faculty,,Ithaca,30
+9/13/2023 11:01:57,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,7
+9/13/2023 16:00:00,telemachus@cca.edu,Technical/Computing,In Person,Faculty,Moodle,Ithaca,59
+9/14/2023 12:05:55,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,59
+9/18/2023 10:42:38,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,31
+9/18/2023 12:50:57,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,5
+9/18/2023 14:13:42,circe@cca.edu,Reference,Email,Faculty,,Aeaea,61
+9/19/2023 10:06:50,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,47
+9/19/2023 11:32:46,calypso@cca.edu,Technical/Computing,Email,Staff,Moodle,Aeaea,22
+9/19/2023 15:29:29,circe@cca.edu,Reference,In Person,Faculty,,Ithaca,62
+9/19/2023 15:29:46,circe@cca.edu,Reference,Email,Faculty,,Aeaea,21
+9/20/2023 14:41:43,calypso@cca.edu,Reference,Chat,Faculty,,Aeaea,35
+9/20/2023 18:37:39,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,9
+9/21/2023 9:58:00,circe@cca.edu,Reference,Email,Staff,,Aeaea,63
+9/21/2023 10:11:46,circe@cca.edu,Service,Email,Other,,Aeaea,73
+9/21/2023 10:32:21,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,54
+9/22/2023 14:22:35,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,26
+9/25/2023 9:15:43,circe@cca.edu,Reference,Email,Faculty,,Aeaea,26
+9/25/2023 10:21:28,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,95
+9/25/2023 11:12:26,circe@cca.edu,Reference,Email,Undergrad,,Aeaea,88
+9/26/2023 9:15:24,circe@cca.edu,Reference,Email,Faculty,,Aeaea,26
+9/26/2023 9:15:40,circe@cca.edu,Service,In Person,Staff,,Ithaca,89
+9/26/2023 9:23:37,circe@cca.edu,Reference,Email,Faculty,,Aeaea,34
+9/26/2023 12:58:58,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,75
+9/26/2023 13:59:14,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,21
+9/26/2023 15:41:35,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,22
+9/26/2023 15:52:02,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,62
+9/27/2023 9:58:15,circe@cca.edu,Reference,Email,Faculty,,Aeaea,5
+9/27/2023 14:35:57,calypso@cca.edu,Technical/Computing,Email,Faculty,VAULT,Aeaea,43
+9/27/2023 11:15:00,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,86
+9/29/2023 11:43:06,calypso@cca.edu,Technical/Computing,Email,Alumni,VAULT,Aeaea,50
+9/29/2023 15:46:54,calypso@cca.edu,Reference,Chat,Faculty,,Aeaea,27
+10/4/2023 11:22:00,calypso@cca.edu,Technical/Computing,Email,Staff,VAULT,Aeaea,40
+10/4/2023 12:46:44,calypso@cca.edu,Reference,Email,,VAULT,Aeaea,93
+10/4/2023 12:57:41,calypso@cca.edu,Reference,Chat,Grad Student,,Aeaea,10
+10/5/2023 9:37:10,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,48
+10/5/2023 11:03:25,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,41
+10/6/2023 10:59:42,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,53
+10/9/2023 8:18:54,calypso@cca.edu,Reference,Email,Faculty,,Aeaea,0
+10/9/2023 13:21:00,charybdis@cca.edu,Technical/Computing,Chat,Faculty,Zoom,Aeaea,56
+10/9/2023 13:29:28,circe@cca.edu,Service,Email,Grad Student,,Aeaea,13
+10/10/2023 10:59:17,calypso@cca.edu,Directional,Chat,,,Aeaea,76
+10/11/2023 7:17:19,circe@cca.edu,Service,Email,Faculty,,Aeaea,81
+10/11/2023 8:51:14,circe@cca.edu,Reference,Email,Staff,,Ithaca,25
+10/12/2023 8:09:01,circe@cca.edu,Reference,Email,,,Aeaea,61
+10/12/2023 8:09:21,circe@cca.edu,Reference,Email,Other,,Aeaea,57
+10/12/2023 8:14:26,circe@cca.edu,Reference,Email,Staff,,Aeaea,11
+10/12/2023 9:07:44,calypso@cca.edu,Directional,Chat,,,Aeaea,14
+10/16/2023 13:53:41,circe@cca.edu,Reference,Email,Faculty,,Aeaea,62
+10/17/2023 10:09:44,circe@cca.edu,Reference,Email,Faculty,,Aeaea,11
+10/23/2023 12:46:21,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,97
+10/23/2023 14:55:34,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,29
+10/23/2023 16:14:57,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,72
+10/26/2023 8:58:06,calypso@cca.edu,Technical/Computing,Email,Staff,Moodle,Aeaea,76
+10/26/2023 10:44:58,circe@cca.edu,Reference,Email,Faculty,,Aeaea,45
+10/26/2023 10:45:20,circe@cca.edu,Reference,Email,Other,,Aeaea,79
+10/26/2023 10:45:39,circe@cca.edu,Reference,Email,Other,,Aeaea,21
+10/26/2023 10:45:57,circe@cca.edu,Service,Email,Other,,Aeaea,96
+10/30/2023 15:22:03,circe@cca.edu,Reference,Email,Other,,Aeaea,86
+11/1/2023 8:52:15,circe@cca.edu,Service,Email,Other,,Aeaea,78
+11/1/2023 13:43:33,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,59
+11/1/2023 15:21:30,circe@cca.edu,Reference,Email,Grad Student,,Aeaea,12
+11/2/2023 14:19:50,cyclops@cca.edu,Reference,In Person,Grad Student,,Ithaca,27
+11/2/2023 16:08:28,cyclops@cca.edu,Reference,Email,Undergrad,,Ithaca,7
+11/3/2023 16:23:45,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,17
+11/6/2023 10:39:48,circe@cca.edu,Reference,Email,Faculty,,Ithaca,67
+11/6/2023 10:54:11,circe@cca.edu,Reference,Email,Grad Student,,Aeaea,44
+11/6/2023 15:32:00,calypso@cca.edu,Reference,Chat,Faculty,,Aeaea,24
+11/7/2023 14:36:11,calypso@cca.edu,Technical/Computing,Email,Faculty,VAULT,Aeaea,2
+11/8/2023 9:53:56,circe@cca.edu,Reference,Email,Faculty,,Aeaea,38
+11/8/2023 9:54:10,circe@cca.edu,Reference,Email,Faculty,,Aeaea,97
+11/8/2023 9:54:25,circe@cca.edu,Reference,Email,Grad Student,,Aeaea,22
+11/8/2023 13:11:24,calypso@cca.edu,Technical/Computing,Chat,Faculty,,Aeaea,73
+11/9/2023 14:59:21,telemachus@cca.edu,Technical/Computing,Zoom,Faculty,"Moodle, VoiceThread",Aeaea,94
+11/13/2023 14:21:36,circe@cca.edu,Reference,Email,Staff,,Aeaea,18
+11/14/2023 11:09:28,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,72
+11/14/2023 11:09:39,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,87
+11/14/2023 13:06:00,circe@cca.edu,Reference,Email,Other,,Aeaea,32
+11/16/2023 13:51:06,telemachus@cca.edu,Reference,Chat,Other,,Aeaea,75
+11/17/2023 10:01:45,charybdis@cca.edu,Directional,Chat,,,Aeaea,90
+11/21/2023 7:19:04,circe@cca.edu,Reference,Email,Grad Student,,Aeaea,59
+11/21/2023 7:19:20,circe@cca.edu,Reference,Email,Faculty,,Aeaea,64
+11/27/2023 10:00:51,calypso@cca.edu,Reference,Email,Grad Student,,Aeaea,91
+11/27/2023 16:33:16,cyclops@cca.edu,Reference,In Person,Staff,,Ithaca,41
+11/28/2023 9:16:16,calypso@cca.edu,Technical/Computing,Email,Alumni,VAULT,Aeaea,90
+11/28/2023 12:21:04,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,78
+11/28/2023 13:02:00,calypso@cca.edu,Technical/Computing,Chat,Faculty,"Moodle, Zoom",Aeaea,53
+11/28/2023 15:23:22,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,97
+11/28/2023 15:38:24,cyclops@cca.edu,Reference,In Person,Grad Student,,Ithaca,9
+11/29/2023 11:45:07,calypso@cca.edu,Technical/Computing,Chat,Faculty,,Aeaea,11
+11/29/2023 13:38:48,calypso@cca.edu,Reference,Chat,Undergrad,,Aeaea,91
+11/29/2023 16:14:08,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,20
+11/30/2023 12:15:43,calypso@cca.edu,Technical/Computing,Email,Faculty,Mural,Aeaea,22
+12/1/2023 15:06:06,cyclops@cca.edu,Reference,Email,Staff,,Aeaea,2
+12/5/2023 8:46:27,circe@cca.edu,Service,Email,Undergrad,,Aeaea,63
+12/5/2023 8:46:49,circe@cca.edu,Reference,Email,Other,,Aeaea,66
+12/5/2023 14:41:04,circe@cca.edu,Reference,In Person,Undergrad,,Ithaca,82
+12/5/2023 15:07:38,cyclops@cca.edu,Reference,Email,Undergrad,,Ithaca,59
+12/6/2023 9:08:39,calypso@cca.edu,Technical/Computing,Email,Faculty,Moodle,Aeaea,21
+12/6/2023 9:58:51,charybdis@cca.edu,Reference,Chat,Other,,Aeaea,49
+12/6/2023 13:30:39,circe@cca.edu,Reference,Email,Other,,Aeaea,50
+12/6/2023 13:31:03,circe@cca.edu,Service,In Person,Grad Student,,Ithaca,91
+12/6/2023 14:16:57,circe@cca.edu,Reference,Email,Other,,Aeaea,92
+12/7/2023 14:25:12,calypso@cca.edu,Technical/Computing,Chat,Faculty,,Aeaea,62
+12/15/2023 11:23:52,calypso@cca.edu,Technical/Computing,Email,Faculty,VAULT,Aeaea,69
+12/15/2023 16:07:55,telemachus@cca.edu,Technical/Computing,Zoom,Faculty,Moodle,Aeaea,31
+12/19/2023 17:03:39,calypso@cca.edu,Reference,Email,Faculty,,Aeaea,29
+12/21/2023 15:28:01,calypso@cca.edu,Technical/Computing,Email,Staff,VAULT,Aeaea,30
+12/21/2023 15:47:35,calypso@cca.edu,Technical/Computing,Email,Faculty,VAULT,Aeaea,94
+1/4/2024 13:13:57,calypso@cca.edu,Service,Email,Grad Student,,Aeaea,52
+1/4/2024 13:18:18,calypso@cca.edu,Technical/Computing,Email,Faculty,,Aeaea,42
+1/8/2024 9:35:13,calypso@cca.edu,Technical/Computing,Email,Faculty,,Aeaea,85
+1/8/2024 14:43:09,calypso@cca.edu,Reference,Email,Faculty,,Aeaea,79
+1/10/2024 10:14:37,calypso@cca.edu,Technical/Computing,Zoom,Faculty,Portal,Aeaea,70
+1/10/2024 10:48:05,telemachus@cca.edu,Technical/Computing,Zoom,Faculty,Moodle,Aeaea,95
+1/10/2024 10:59:23,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,45
+1/10/2024 12:04:58,calypso@cca.edu,Directional,Chat,Faculty,,Aeaea,98
+1/10/2024 15:14:53,circe@cca.edu,Reference,Email,Other,,Aeaea,75
+1/10/2024 15:15:13,circe@cca.edu,Reference,Email,Alumni,Materials Library,Aeaea,53
+1/10/2024 15:15:32,circe@cca.edu,Service,Email,Faculty,,Aeaea,7
+1/10/2024 15:15:51,circe@cca.edu,Service,Email,Undergrad,,Aeaea,34
+1/10/2024 15:16:06,circe@cca.edu,Directional,In Person,Undergrad,,Ithaca,68
+1/10/2024 15:24:46,telemachus@cca.edu,Technical/Computing,In Person,Faculty,Moodle,Ithaca,13
+1/10/2024 16:15:47,charybdis@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,38
+1/11/2024 9:09:18,circe@cca.edu,Reference,Email,Faculty,,Aeaea,96
+1/11/2024 14:38:30,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,19
+1/11/2024 17:38:01,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,87
+1/12/2024 9:14:16,circe@cca.edu,Reference,Email,Faculty,,Aeaea,64
+1/12/2024 17:29:49,charybdis@cca.edu,Technical/Computing,Google Meet,Faculty,Moodle,Aeaea,16
+1/14/2024 11:33:53,calypso@cca.edu,Technical/Computing,Email,Faculty,Moodle,Aeaea,40
+1/15/2024 19:53:02,calypso@cca.edu,Technical/Computing,Email,Faculty,Moodle,Aeaea,83
+1/16/2024 10:27:24,charybdis@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,69
+1/16/2024 11:17:16,charybdis@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,1
+1/16/2024 15:36:09,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,54
+1/16/2024 17:12:28,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,76
+1/17/2024 7:26:51,circe@cca.edu,Reference,Email,Faculty,,Aeaea,56
+1/17/2024 9:41:20,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,2
+1/17/2024 9:41:27,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,81
+1/17/2024 11:08:13,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Portal,Aeaea,11
+1/17/2024 12:08:59,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,0
+1/17/2024 13:36:23,calypso@cca.edu,Directional,Chat,Faculty,,Aeaea,11
+1/18/2024 10:03:11,charybdis@cca.edu,Directional,Chat,,Moodle,Aeaea,44
+1/17/2024 16:00:00,cyclops@cca.edu,Reference,In Person,Faculty,,Ithaca,39
+1/18/2024 11:56:20,scylla@cca.edu,Service,In Person,Undergrad,,Ithaca,57
+1/18/2024 12:22:43,charybdis@cca.edu,Service,Chat,Undergrad,Moodle,Aeaea,82
+1/18/2024 13:30:51,scylla@cca.edu,Service,In Person,Faculty,Printing,Ithaca,45
+1/18/2024 13:31:05,scylla@cca.edu,Directional,In Person,Faculty,,Ithaca,75
+1/18/2024 13:33:15,scylla@cca.edu,Service,In Person,Undergrad,,Ithaca,53
+1/18/2024 13:56:07,scylla@cca.edu,Directional,In Person,Faculty,,Ithaca,80
+1/10/2024 10:00:00,charybdis@cca.edu,Technical/Computing,Zoom,Faculty,Moodle,Aeaea,10
+1/10/2024 10:15:00,charybdis@cca.edu,Technical/Computing,Zoom,Faculty,Moodle,Aeaea,58
+1/19/2024 12:04:50,charybdis@cca.edu,Directional,Chat,Faculty,Moodle,Aeaea,30
+1/19/2024 15:43:33,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,52
+1/19/2024 15:43:39,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,45
+1/19/2024 18:30:47,calypso@cca.edu,Directional,Email,Faculty,Portal,Aeaea,18
+1/19/2024 18:30:53,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,45
+1/20/2024 12:27:33,calypso@cca.edu,Directional,Email,Faculty,Portal,Aeaea,30
+1/21/2024 9:27:50,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,82
+1/22/2024 8:32:07,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,62
+1/22/2024 9:08:55,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,58
+1/22/2024 10:04:51,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,31
+1/22/2024 10:28:29,cyclops@cca.edu,Reference,In Person,Grad Student,,Ithaca,29
+1/22/2024 11:06:39,charybdis@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,23
+1/22/2024 11:46:37,charybdis@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,7
+1/22/2024 11:48:57,circe@cca.edu,Service,Email,Staff,,Aeaea,21
+1/22/2024 11:49:12,circe@cca.edu,Reference,Email,Grad Student,,Aeaea,84
+1/22/2024 12:04:26,calypso@cca.edu,Directional,Chat,Faculty,,Aeaea,90
+1/22/2024 12:21:33,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,30
+1/22/2024 13:53:00,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,89
+1/22/2024 14:28:05,calypso@cca.edu,Technical/Computing,Chat,Faculty,"Moodle, Portal",Aeaea,54
+1/22/2024 14:48:53,telemachus@cca.edu,Technical/Computing,Chat,Faculty,"Google Apps for Education, Moodle",Aeaea,21
+1/22/2024 15:39:22,circe@cca.edu,Service,Email,Undergrad,,Aeaea,39
+1/23/2024 13:26:48,charybdis@cca.edu,Technical/Computing,Zoom,Faculty,Portal,Aeaea,65
+1/23/2024 15:47:32,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,89
+1/23/2024 15:52:45,cyclops@cca.edu,Reference,In Person,Grad Student,,Ithaca,68
+1/24/2024 8:27:13,calypso@cca.edu,Reference,Email,Faculty,,Aeaea,64
+1/24/2024 11:28:34,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,42
+1/24/2024 17:28:29,charybdis@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,30
+1/24/2024 20:28:26,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,47
+1/25/2024 8:24:35,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,96
+1/25/2024 11:35:13,calypso@cca.edu,Reference,Chat,,,Aeaea,93
+1/26/2024 12:48:03,telemachus@cca.edu,Technical/Computing,Zoom,Faculty,Moodle,Aeaea,28
+1/29/2024 8:26:58,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,90
+1/29/2024 11:58:27,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,95
+1/29/2024 14:58:40,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,36
+1/29/2024 14:58:51,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,24
+1/29/2024 15:21:32,telemachus@cca.edu,Technical/Computing,Zoom,Faculty,Moodle,Aeaea,10
+1/29/2024 15:33:28,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,78
+1/30/2024 13:32:46,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,100
+2/1/2024 16:39:17,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,6
+2/2/2024 11:42:50,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,5
+2/2/2024 11:53:05,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,82
+2/2/2024 11:53:13,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,69
+2/2/2024 12:53:02,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,88
+2/3/2024 9:00:06,calypso@cca.edu,Technical/Computing,Email,Staff,VAULT,Aeaea,18
+2/3/2024 19:30:44,calypso@cca.edu,Technical/Computing,Email,Grad Student,VAULT,Aeaea,67
+2/4/2024 18:36:36,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,76
+2/5/2024 12:42:44,calypso@cca.edu,Technical/Computing,Email,Faculty,Portal,Aeaea,28
+2/6/2024 11:20:40,charybdis@cca.edu,Directional,Chat,Faculty,Moodle,Aeaea,33
+2/6/2024 13:58:18,calypso@cca.edu,Service,Chat,Faculty,Moodle,Aeaea,9
+2/8/2024 7:29:40,calypso@cca.edu,Technical/Computing,Email,Faculty,Moodle,Aeaea,67
+2/8/2024 12:59:37,calypso@cca.edu,Reference,Chat,Faculty,,Aeaea,23
+2/9/2024 11:23:37,aeolus@cca.edu,Reference,In Person,Faculty,,Ithaca,34
+2/9/2024 11:24:04,aeolus@cca.edu,Service,In Person,Faculty,,Ithaca,25
+2/9/2024 11:34:37,helios@cca.edu,Service,Phone,Alumni,,Ithaca,72
+2/9/2024 11:35:49,aeolus@cca.edu,Directional,In Person,Faculty,,Ithaca,70
+2/9/2024 14:12:04,aeolus@cca.edu,Directional,In Person,Grad Student,,Ithaca,10
+2/10/2024 9:32:29,calypso@cca.edu,Technical/Computing,Email,Staff,Moodle,Aeaea,31
+2/12/2024 8:14:50,calypso@cca.edu,Reference,Email,,VAULT,Aeaea,80
+2/13/2024 10:12:45,calypso@cca.edu,Directional,Chat,Faculty,,Aeaea,50
+2/13/2024 11:40:35,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,46
+2/13/2024 11:40:51,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,99
+2/13/2024 11:41:10,cyclops@cca.edu,Reference,In Person,Grad Student,,Ithaca,88
+2/13/2024 11:52:18,telemachus@cca.edu,Technical/Computing,Zoom,Faculty,Moodle,Aeaea,24
+2/13/2024 14:49:17,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,38
+2/15/2024 10:35:49,calypso@cca.edu,Directional,Chat,Grad Student,,Aeaea,63
+2/15/2024 15:54:51,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,96
+2/16/2024 11:22:05,telemachus@cca.edu,Reference,Chat,Undergrad,,Aeaea,12
+2/19/2024 15:16:34,circe@cca.edu,Reference,Email,Faculty,,Aeaea,3
+2/19/2024 15:16:51,circe@cca.edu,Reference,Email,Staff,,Aeaea,24
+2/19/2024 15:17:07,circe@cca.edu,Service,In Person,Undergrad,,Ithaca,42
+2/19/2024 15:17:25,circe@cca.edu,Service,In Person,Grad Student,,Ithaca,7
+2/19/2024 15:49:33,circe@cca.edu,Reference,Email,Faculty,,Aeaea,17
+2/20/2024 11:07:03,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,18
+2/20/2024 11:45:19,circe@cca.edu,Service,Email,Faculty,,Aeaea,67
+2/20/2024 16:11:58,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,19
+2/21/2024 11:01:39,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,17
+2/22/2024 11:39:08,cyclops@cca.edu,Reference,In Person,Undergrad,,Ithaca,80
+2/23/2024 8:23:28,calypso@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,90
+2/25/2024 11:28:20,calypso@cca.edu,Technical/Computing,Email,Undergrad,,Aeaea,31
+2/26/2024 8:54:02,calypso@cca.edu,Technical/Computing,Email,Staff,Moodle,Aeaea,58
+2/27/2024 14:21:34,calypso@cca.edu,Service,Chat,Faculty,,Aeaea,29
+2/27/2024 15:39:11,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,2
+2/28/2024 9:10:03,calypso@cca.edu,Reference,Email,Faculty,,Aeaea,14
+2/28/2024 10:15:54,charybdis@cca.edu,Directional,Chat,,,Aeaea,17
+3/1/2024 16:22:28,charybdis@cca.edu,Service,Chat,,Moodle,Aeaea,71
+3/4/2024 15:19:25,calypso@cca.edu,Reference,Email,Undergrad,,Aeaea,12
+3/5/2024 13:06:06,circe@cca.edu,Reference,Email,Faculty,,Aeaea,39
+3/5/2024 13:00:00,telemachus@cca.edu,Technical/Computing,Zoom,Faculty,Moodle,Aeaea,42
+3/12/2024 12:27:27,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,23
+3/14/2024 13:38:33,calypso@cca.edu,Reference,Chat,Faculty,,Aeaea,95
+3/18/2024 10:47:59,calypso@cca.edu,Service,Email,Alumni,,Aeaea,98
+3/20/2024 16:00:00,telemachus@cca.edu,Service,Chat,Alumni,Portal,Aeaea,75
+3/25/2024 14:53:36,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,70
+3/26/2024 9:29:57,circe@cca.edu,Service,Email,Other,,Aeaea,12
+3/26/2024 9:41:25,circe@cca.edu,Service,Email,Other,Materials Library,Aeaea,65
+3/26/2024 9:41:47,circe@cca.edu,Service,Email,Other,Materials Library,Aeaea,8
+3/27/2024 10:59:54,circe@cca.edu,Service,Email,Other,Materials Library,Aeaea,14
+3/27/2024 11:03:25,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,70
+3/27/2024 11:19:15,circe@cca.edu,Service,Email,Other,,Aeaea,61
+3/28/2024 11:22:24,telemachus@cca.edu,Service,Chat,Faculty,,Aeaea,53
+3/29/2024 16:27:00,charybdis@cca.edu,Directional,Chat,Faculty,Moodle,Aeaea,97
+4/1/2024 15:35:53,circe@cca.edu,Service,Email,Grad Student,,Aeaea,29
+4/1/2024 15:36:17,circe@cca.edu,Service,In Person,Faculty,,Ithaca,39
+4/3/2024 13:08:03,circe@cca.edu,Reference,Email,Other,,Aeaea,44
+4/8/2024 8:45:24,calypso@cca.edu,Technical/Computing,Email,Faculty,,Aeaea,87
+4/9/2024 14:41:37,circe@cca.edu,Service,Email,Other,,Aeaea,89
+4/9/2024 14:41:56,circe@cca.edu,Reference,Email,Staff,,Aeaea,49
+4/9/2024 14:48:42,calypso@cca.edu,Technical/Computing,Chat,Faculty,"Google Apps for Education, Moodle",Aeaea,28
+4/10/2024 15:01:21,telemachus@cca.edu,Reference,Chat,Other,Materials Library,Aeaea,65
+4/11/2024 16:28:45,charybdis@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,6
+4/11/2024 17:12:58,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,25
+4/12/2024 13:47:21,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,85
+4/17/2024 9:02:21,circe@cca.edu,Service,Email,Other,,Aeaea,57
+4/17/2024 14:31:11,telemachus@cca.edu,Technical/Computing,In Person,,"Google Apps for Education, Moodle",Ithaca,31
+4/19/2024 15:18:59,calypso@cca.edu,Technical/Computing,Email,Faculty,VAULT,Aeaea,48
+4/23/2024 8:23:34,calypso@cca.edu,Directional,Chat,,,Aeaea,96
+4/23/2024 9:21:59,calypso@cca.edu,Service,Chat,Faculty,,Aeaea,46
+4/29/2024 9:51:10,calypso@cca.edu,Technical/Computing,Email,Undergrad,VAULT,Aeaea,48
+4/29/2024 16:12:39,telemachus@cca.edu,Technical/Computing,In Person,Faculty,"Google Apps for Education, Moodle",Ithaca,95
+5/3/2024 11:54:16,calypso@cca.edu,Technical/Computing,Email,Faculty,VAULT,Aeaea,89
+5/3/2024 14:38:19,calypso@cca.edu,Technical/Computing,Email,Faculty,VAULT,Aeaea,19
+5/3/2024 12:31:00,charybdis@cca.edu,Directional,Chat,,,Aeaea,49
+5/5/2024 13:14:31,calypso@cca.edu,Technical/Computing,Email,Faculty,VAULT,Aeaea,52
+5/6/2024 10:11:25,calypso@cca.edu,Service,Chat,Faculty,,Aeaea,71
+5/6/2024 16:24:32,telemachus@cca.edu,Technical/Computing,Chat,Faculty,,Aeaea,59
+5/7/2024 12:17:12,calypso@cca.edu,Technical/Computing,Email,Undergrad,VAULT,Aeaea,15
+5/9/2024 13:47:37,telemachus@cca.edu,Technical/Computing,Chat,Faculty,Moodle,Aeaea,7
