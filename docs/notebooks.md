@@ -30,7 +30,7 @@ We can also **Upload** notebook files from our hard drive. So we could download 
 
 ### VS Code
 
-See [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). VS Code supports notebooks out of the box, but when we run code blocks we need to configure the Python interpeter, or kernel, that the notebooks uses. The interpeter must have the `ipykernel` package installed. I was able to create a virtual inside the project directory and install `ipykernel` in it, then select that kernel in the notebook (see [my notes below](#running-notebooks-in-a-virtual-environment)). If we chose our system python, we need to run `pip install ipykernel`.
+See [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). VS Code supports notebooks out of the box, but when we run code blocks we need to configure the Python interpeter, or kernel, that the notebooks uses. The interpeter must have the `ipykernel` package installed. I was able to create a virtual inside the project directory and install `ipykernel` in it, then select that kernel in the notebook (see [my notes below](#running-notebooks-in-a-virtual-environment)). If we chose our system Python, we need to run `pip install ipykernel`.
 
 ### PyCharm
 
@@ -57,7 +57,7 @@ Then in VS Code, open a notebook and use the **Select Kernel** button in the upp
 
 ## Important Notes
 
-A notebook line that begins with an exclamation point `!` is a shell command. This is how we can install packages from within a notebook, with a line like `!pip install pymarc`. That _should_ work if the notebook is using the right Python interpreter (e.g. one in the right virtual environment instead of the system python).
+A notebook line that begins with an exclamation point `!` is a shell command. This is how we can install packages from within a notebook, with a line like `!pip install pymarc`. That _should_ work if the notebook is using the right Python interpreter (e.g., one in the right virtual environment instead of the system Python).
 
 Each code block prints the output of shell commands and `print` statements immediately after it. These outputs are actually stored within the notebook file and can be viewed later. For instance, when we look at the [type-hints notebook](type-hints.ipynb), we see the output (some of which is randomized) from when I last ran the code on my machine.
 
@@ -66,3 +66,9 @@ Each code block prints the output of shell commands and `print` statements immed
 Notebook cells are run in order, and the state of the Python interpreter is maintained between cells. This means that if we run a cell that imports a module, we can use that module in subsequent cells. If we define a variable in one cell, it will still be present (and able to modified!) in the next cell.
 
 A common pattern is to edit and rerun cells multiple times until we get the output we want. This works well, but changes to a cell in the middle of a notebook may break cells later on (e.g. if we delete or change the type of a variable). Thankfully, notebooks typically have a "run all cells before this one" option. This is useful to reset the state of the interpreter when a series of changes has created a mess.
+
+## Cross-platform Paths
+
+In the notebooks in this repo, I used the `pathlib` module to create paths rather than strings. These paths should be valid on all operating systems. For instance, `Path('data') / 'file.txt'` creates the path `data/file.txt` on Unix-like systems like Linux and macOS and `data\file.txt` on Windows. Hopefully, the code samples work for everyone, but I only tested on a macbook.
+
+If we use a hosted notebook service like Google Colab, we may need to adjust the paths to match the service's filesystem. Most services have a place where we can upload files relative to the notebook. For Colab, if we click the folder icon in the left sidebar, we can then create a folder named "assets" and place the files from docs/assets there. Then the code in the notebooks should work as written.
