@@ -12,6 +12,7 @@ pymarc = "^5.1.2"
 pytest = "^8.1.1"
 ipykernel = "^6.29.4"
 pandas = "^2.2.2"
+matplotlib = "^3.8.4"
 
 [build-system]
 requires = ["poetry-core"]
