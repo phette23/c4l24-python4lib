@@ -1,6 +1,10 @@
 # Python{4}Lib (Code4Lib 2024 Workshop)
 
-Post-conference workshop for Code4Lib 2024. Time and more specific list of topics TBD.
+Post-conference workshop for Code4Lib 2024. 9:00am - 12:00pm on Thursday, May 16th. We will be in Room 2185 of the [North Quadrangle](https://maps.app.goo.gl/t7WFYLU2UjLJspPB8) building. From [the conference website](https://2024.code4lib.org/general-info/venues/#workshops):
+
+> North Quad is about 2-blocks from the League at 105 S. State St and has two, physically separated towers (one with academic offices, the other with a residence hall and classrooms). Use the main entrance to the tallest tower, which is around the corner from the street address in the southeast part of the building near Thayer and E. Washington St. The entrance is on a plaza and there is a ramp up to handicap accessible doors.
+
+> Workshops will be held in instructional spaces on the ground floor (floor 2) and lower level (floor 1) in rooms: 1265, 1255, 2255, 2245, 2185. Please consult the detailed workshop schedule to identify your room. We’ll have signage at the main entrance to help guide you and there is an elevator on the left after you enter the building.
 
 ## Session Description
 
