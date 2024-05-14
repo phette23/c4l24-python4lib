@@ -36,7 +36,7 @@ Links:
 
 The repo contains Jupyter Notebooks, which most code editors should be able to open. You can also view them on GitHub. If you're not able to run the notebooks, you can either write code into a Python script or run it in an interactive Python shell.
 
-If you have [poetry](https://python-poetry.org/) installed, you can run `poetry install` to create a virtual environment with all the packages mentioned in notebooks. It will include the ipykernel needed to run the notebooks. To get VS Code to give you the option to choose poetry's venv as a kernel, you may want to `mkdir .venv` in this repo before running `poetry install`.
+If you have [poetry](https://python-poetry.org/) installed, you can run `poetry install` to create a virtual environment with all the packages mentioned in notebooks. It will include the ipykernel package needed to run code in the notebooks. To get VS Code to give you the option to choose poetry's venv as a kernel, try running `mkdir .venv` in this repo before running `poetry install`.
 
 A requirements.txt file is also included with the packages needed to run the notebooks. Here's how you would create a virtual environment and install the packages with pip:
 
