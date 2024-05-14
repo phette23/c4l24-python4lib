@@ -21,6 +21,8 @@ We will abide by the [Code4Lib Code of Conduct](https://2024.code4lib.org/conduc
 
 Then a round of introductions. Please share at least your name and a note about your relationship with Python, whether that's your expertise level, what kinds of coding you usually do, or something you're looking forward to talking about today.
 
+We should attempt to take notes to share on the [python4lib resources](https://github.com/code4lib/python4lib-resources) repo.
+
 ## Getting Started
 
 To get the most out of this session, attendees will need to download this repository and have Python 3. Python 3.10 should be able to utilize all features discussed but earlier versions should be able to run most of the code samples.
@@ -43,6 +45,25 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Topics Index
+
+In rough order of popularity based on a survey of attendees:
+
+- [Jupyter Notebooks](./docs/notebooks.md) (start here, prerequisite)
+- [Pymarc Patterns](./docs/pymarc.ipynb)
+- [Pandas](./docs/pandas.ipynb)
+- [Dependency Management](./docs/dependencies.md)
+- [Common Patterns](./docs/common-patterns.ipynb)
+- [Type Hints](./docs/type-hints.ipynb)
+- [New Language Features](./docs/new-features.ipynb)
+- [F-Strings](./docs/f-strings.ipynb)
+- [Pytest Parametrization](./docs/pytest-parametrization.ipynb)
+
+I didn't have time to prepare notebooks on a couple more popular topics, but I can share some resources:
+
+- The spaCy Natural Language Processing library has [a great course](https://course.spacy.io/en/) which runs in browser so you don't even need python or the ability to install the models, highly recommended.
+- [Real Python](https://realpython.com/) has [a complete walthrough on async IO](https://realpython.com/async-io-python/).
 
 ## License
 
