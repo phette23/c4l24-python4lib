@@ -67,6 +67,8 @@ Notebook cells are run in order, and the state of the Python interpreter is main
 
 A common pattern is to edit and rerun cells multiple times until we get the output we want. This works well, but changes to a cell in the middle of a notebook may break cells later on (e.g. if we delete or change the type of a variable). Thankfully, notebooks typically have a "run all cells before this one" option. This is useful to reset the state of the interpreter when a series of changes has created a mess.
 
+The [demo notebook](./example.ipynb) can be used to demonstrate execution order and interpreter state.
+
 ## Cross-platform Paths
 
 In the notebooks in this repo, I used the `pathlib` module to create paths rather than strings. These paths should be valid on all operating systems. For instance, `Path('data') / 'file.txt'` creates the path `data/file.txt` on Unix-like systems like Linux and macOS and `data\file.txt` on Windows. Hopefully, the code samples work for everyone, but I only tested on a macbook.
