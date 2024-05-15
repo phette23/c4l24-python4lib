@@ -5,7 +5,7 @@
 Post-conference workshop for Code4Lib 2024. 9:00am - 12:00pm on Thursday, May 16th. We will be in Room 2185 of the [North Quadrangle](https://maps.app.goo.gl/t7WFYLU2UjLJspPB8) building. From [the conference website](https://2024.code4lib.org/general-info/venues/#workshops):
 
 > North Quad is about 2-blocks from the League at 105 S. State St and has two, physically separated towers (one with academic offices, the other with a residence hall and classrooms). Use the main entrance to the tallest tower, which is around the corner from the street address in the southeast part of the building near Thayer and E. Washington St. The entrance is on a plaza and there is a ramp up to handicap accessible doors.
-
+>
 > Workshops will be held in instructional spaces on the ground floor (floor 2) and lower level (floor 1) in rooms: 1265, 1255, 2255, 2245, 2185. Please consult the detailed workshop schedule to identify your room. We’ll have signage at the main entrance to help guide you and there is an elevator on the left after you enter the building.
 
 ## Session Description
@@ -57,14 +57,14 @@ pip install -r requirements.txt
 In rough order of popularity based on a survey of attendees:
 
 - [Jupyter Notebooks](./docs/notebooks.md) (start here, prerequisite)
-- [Pymarc Patterns](./docs/pymarc.ipynb)
-- [Pandas](./docs/pandas.ipynb)
+- [Pymarc Patterns](./docs/pymarc.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phette23/c4l24-python4lib/blob/main/docs/pymarc.ipynb)
+- [Pandas](./docs/pandas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phette23/c4l24-python4lib/blob/main/docs/pandas.ipynb)
 - [Dependency Management](./docs/dependencies.md)
-- [Common Patterns](./docs/common-patterns.ipynb)
-- [Type Hints](./docs/type-hints.ipynb)
-- [New Language Features](./docs/new-features.ipynb)
-- [F-Strings](./docs/f-strings.ipynb)
-- [Pytest Parametrization](./docs/pytest-parametrization.ipynb)
+- [Common Patterns](./docs/common-patterns.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phette23/c4l24-python4lib/blob/main/docs/common-patterns.ipynb)
+- [Type Hints](./docs/type-hints.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phette23/c4l24-python4lib/blob/main/docs/type-hints.ipynb)
+- [New Language Features](./docs/new-features.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phette23/c4l24-python4lib/blob/main/docs/new-features.ipynb)
+- [F-Strings](./docs/f-strings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phette23/c4l24-python4lib/blob/main/docs/f-strings.ipynb)
+- [Pytest Parametrization](./docs/pytest-parametrization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phette23/c4l24-python4lib/blob/main/docs/pytest-parametrization.ipynb)
 
 I didn't have time to prepare notebooks on a couple more popular topics, but I can share some resources:
 
