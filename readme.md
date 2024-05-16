@@ -54,6 +54,8 @@ pip install -r requirements.txt
 
 ## Topics Index
 
+[Python4Lib](https://github.com/code4lib/python4lib-resources/) is an informal group that meets biweekly over Zoom. Sometimes there are presentations on particular topics, sometimes we just chat about what's going on. Notes from meetings are shared to the `#python` channel in the Code4Lib Slack. If you want to join the biweekly calls, ask to be added to the calendar event in the Slack channel. Approximately the first hour of this workshop will be a Python4Lib meeting, then we'll cover as much of the following as time allows.
+
 In rough order of popularity based on a survey of attendees:
 
 - [Jupyter Notebooks](./docs/notebooks.md) (start here, prerequisite)
